@@ -1,23 +1,34 @@
-# Heyy, welcome to my profile!!!
+# Hi, I'm Mariana
 
-I’m Mariana! I'm a dedicated Computer Systems student with a passion for coding. I'm a passionate learner, always eager to learn new technologies. Feel free to explore my repositories and reach out if you have any questions.
-
----
-
-### Programming languages
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+🎓 Computer Systems student passionate about Data and Back-end Development.  
+💡 Always curious about technology and how to turn data into insights.  
+🚀 Building projects with Python, Django, SQL, JavaScript, and TypeScript. 
 
 ---
 
-### Technologies i use
+## 🛠️ Tech Stack
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="Html" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="Css" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="Github" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+- **Languages:**  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" height="30"/> 
+
+- **Frameworks:**  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="30" height="30"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30" height="30"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="30" height="30"/>  
+
+- **Databases:**  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" height="30"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="30" height="30"/>
 
 ---
 
-### How to reach me?
+## Github Stats
+![Mariana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eumarianamota&show_icons=true&theme=dracula)
 
-- Follow me: [instagram](https://www.instagram.com/mrnamota/)
-- Connect with me: [linkedin](https://www.linkedin.com/in/mariana-mota-5488a92b8/)
-- My portfolio: [portifolio]()
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eumarianamota&theme=dracula)
+---
+
+## Contact with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eumarianamota)   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](eumariana.vercel.app) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eumariana.dev) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eumariana)
