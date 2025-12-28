@@ -1,34 +1,35 @@
-# Hi, I'm Mariana
+<div align="center" >
+  <h3>Heyy, I'm Mariana!</h3>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjYyYXJxNmRva29nbnFzdm5wbW95a3Y0NTA2b3hlMzdub242N3VjMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/B6Rtjz90dG97enfVbW/giphy.gif" width="200"> <br> </br>
+   <p>
+    <a href="https://www.linkedin.com/in/eumarianamota/" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="" target="_blank">
+      <img src="https://img.shields.io/badge/-Portfolio-00A98F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://www.instagram.com/eumariana.dev/" target="_blank">
+      <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+    <a href="mailto:eumarianamota@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+  </p>
+</div>
 
-🎓 Computer Systems student passionate about Data and Back-end Development.  
-💡 Always curious about technology and how to turn data into insights.  
-🚀 Building projects with Python, Django, SQL, JavaScript, and TypeScript. 
+<div align="center">
+  Computer Systems Student at UESPI - Parnaíba
+  <br> Exploring Artificial Intelligence and Automation
+  <br> Developing modern and scalable solutions
+</div>
 
----
+<div align="center">
+  <h2>📊 Git Stats</h2>
 
-## 🛠️ Tech Stack
+  <div>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=eumarianamota&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" width="500"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=eumarianamota&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=0D1117" width="500"/>
+  </div>
+</div>
 
-- **Languages:**  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" height="30"/> 
-
-- **Frameworks:**  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="30" height="30"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30" height="30"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="30" height="30"/>  
-
-- **Databases:**  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" height="30"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="30" height="30"/>
-
----
-
-## Github Stats
-![Mariana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eumarianamota&show_icons=true&theme=dracula)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eumarianamota&theme=dracula)
----
-
-## Contact with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eumarianamota)   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](eumariana.vercel.app) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eumariana.dev) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eumariana)
+<h3 align="center">Thanks for visiting :')))</h3>
