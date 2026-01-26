@@ -26,10 +26,12 @@
 <div align="center">
   <h2>📊 Git Stats</h2>
 
-  <div>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=eumarianamota&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" width="500"/>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=eumarianamota&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=0D1117" width="500"/>
-  </div>
+  | |
+  | -- |
+  | <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=eumarianamota&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" width="500"/> | 
+  | <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=eumarianamota&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=0D1117" width="500"/> | 
+  <hr/>
+
 </div>
 
 <h3 align="center">Thanks for visiting :')))</h3>
