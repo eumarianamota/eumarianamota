@@ -5,7 +5,7 @@
     <a href="https://www.linkedin.com/in/eumarianamota/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="" target="_blank">
+    <a href="https://eumarianamota.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/-Portfolio-00A98F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
     </a>
     <a href="https://www.instagram.com/eumariana.dev/" target="_blank">
