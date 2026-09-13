@@ -19,19 +19,6 @@
 
 <div align="center">
   Computer Systems Student at UESPI - Parnaíba
-  <br> Exploring Artificial Intelligence and Automation
-  <br> Developing modern and scalable solutions
-</div>
-
-<div align="center">
-  <h2>📊 Git Stats</h2>
-
-  | |
-  | -- |
-  | <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=eumarianamota&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" width="500"/> | 
-  | <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=eumarianamota&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=0D1117" width="500"/> | 
-  <hr/>
-
 </div>
 
 <h3 align="center">Thanks for visiting :')))</h3>
